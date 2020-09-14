@@ -20,4 +20,5 @@
    // jackson binding where JSon format will convert into the java pojo format using the setter methods  
   // Jackson tera jso se java pojo mei convert krr deta hai using setter methods,jisse jo tera code json mei hai voh abb java class oops mei implements hogya hai 
   // toh ObjectMapper krke keywords hai jisse object create krta hai jackson , firr kuch commands hai vo toh tu krega hi toh pta chl jayega.
+ // reverse process mei java pojo ko jbb JSon object mei laatei hai naa toh getter use krte hai
 }
