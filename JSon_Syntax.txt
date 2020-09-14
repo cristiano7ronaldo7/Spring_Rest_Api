@@ -15,6 +15,7 @@
 
      "language" : ["Hindi","English","spanish","portugal"] // how array initialise 
      //data binding definition : convering json data in java pojo format.
+    //also data binding definition know as mapping , serialisation/deserialisation
 
 
 }
