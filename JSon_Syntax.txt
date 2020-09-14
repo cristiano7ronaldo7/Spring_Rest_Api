@@ -1,0 +1,10 @@
+// stored the value in key-value pair
+
+{
+     "id"= 7, // int ko normal jaise likhte hai 
+     "first_name"="Deepraj"    //string mei double quote
+     "last_name"="Dhama"   
+     "active"=true,      //active case mei value null li hai toh dekhlena ek baar , null bhi use kiya hai
+     "Courses"=null,    
+
+}
