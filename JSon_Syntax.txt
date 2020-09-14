@@ -17,6 +17,6 @@
      //data binding definition : convering json data in java pojo format.
     //also data binding definition know as mapping , serialisation/deserialisation
     //spring uses the jackson project and jackson uses the data binding between the Json and pojo java object.
-
+   // jackson binding where JSon format will convert into the java pojo format using the setter methods  
 
 }
