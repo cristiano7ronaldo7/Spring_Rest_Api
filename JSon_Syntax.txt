@@ -16,7 +16,7 @@
      "language" : ["Hindi","English","spanish","portugal"] // how array initialise 
      //data binding definition : convering json data in java pojo format.
     //also data binding definition know as mapping , serialisation/deserialisation
-    //spring uses the jackson project and jackson uses the data binding between the Json and pojo java object
+    //spring uses the jackson project and jackson uses the data binding between the Json and pojo java object.
 
 
 }
