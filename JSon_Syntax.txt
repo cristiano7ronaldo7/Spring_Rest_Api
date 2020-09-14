@@ -19,5 +19,5 @@
     //spring uses the jackson project and jackson uses the data binding between the Json and pojo java object.
    // jackson binding where JSon format will convert into the java pojo format using the setter methods  
   // Jackson tera jso se java pojo mei convert krr deta hai using setter methods,jisse jo tera code json mei hai voh abb java class oops mei implements hogya hai 
-
+  // toh ObjectMapper krke keywords hai jisse object create krta hai jackson , firr kuch commands hai vo toh tu krega hi toh pta chl jayega.
 }
