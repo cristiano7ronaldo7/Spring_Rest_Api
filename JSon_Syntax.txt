@@ -21,4 +21,5 @@
   // Jackson tera jso se java pojo mei convert krr deta hai using setter methods,jisse jo tera code json mei hai voh abb java class oops mei implements hogya hai 
   // toh ObjectMapper krke keywords hai jisse object create krta hai jackson , firr kuch commands hai vo toh tu krega hi toh pta chl jayega.
  // reverse process mei java pojo ko jbb JSon object mei laatei hai naa toh getter use krte hai
+// new project  maven existing create krege jisse pom.xml krke jo file hogi uss folder ko select krege jisse eclipse mei new project aa jaaye  
 }
